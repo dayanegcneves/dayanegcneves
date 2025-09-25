@@ -12,7 +12,9 @@ At the moment, I am focusing my studies on React.js and Node.js, aiming to expan
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,vue,vuetify,java,py,cpp,vite,bootstrap,git,github,gitlab)](https://skillicons.dev)
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanegcneves/)
+<a href="https://www.linkedin.com/in/dayanegcneves" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 
 <!--
 ### Employer?
