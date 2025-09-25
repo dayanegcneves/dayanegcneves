@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi, I'm Dayane Neves
+
+I'm a Front-end Developer and future Full Stack Developer, with 2 years of professional experience.  
+During this time, I've contributed to diverse projects, building scalable web applications and focusing on clean, user-friendly interfaces.  
+
+### 🚀 Expertise
+I hold a degree in Computer Engineering and I am currently pursuing a postgraduate specialization in Artificial Intelligence and Machine Learning. I work as a Junior Systems Analyst, mainly focused on developing applications with Vue.js 3, while also gaining experience in backend development with Node.js. Throughout my journey, I have been committed to continuously improving my skills and exploring new technologies. 
+
+At the moment, I am focusing my studies on React.js and Node.js, aiming to expand my expertise and establish myself as a full stack developer capable of contributing across different stages of the software development lifecycle.
+
+### 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,vuetify,java,py,cpp,vite,bootstrap,git,github,gitlab)](https://skillicons.dev)
+
+### 🎨 Tools & Design
+[![Tools](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+### 📚 Currently Learning
+[![Learning](https://skillicons.dev/icons?i=nodejs,react)](https://skillicons.dev)
+
+
+### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanegcneves/)
 
 <!--
-**dayanegcneves/dayanegcneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Employer?
+> [!IMPORTANT]  
+> <a href="" download>Download my resume</a>
 -->
